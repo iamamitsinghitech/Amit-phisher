@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : MaxPhisher
-# Author     : KasRoudra
+# ToolName   : Amit phisher
+# Author     : Amit singh
 # Version    : 1.1
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : Amit (2024-2025)
 # Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
+# Contact    :i_amamitsingh
 # Description: MaxPhisher is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
 # 1st Commit : 08/9/2022
